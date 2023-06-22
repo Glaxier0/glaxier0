@@ -18,4 +18,5 @@ Backend engineer with experience in Node.js/Express.js, Java/Spring Boot, and C#
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Glaxier0&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-glaxier0.vercel.app/api?username=Glaxier0&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
