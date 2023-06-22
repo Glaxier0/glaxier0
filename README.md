@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tahir
 
 # 💫 About Me:
-I’m currently learning Backend development with Java-Spring Boot
+Backend engineer with experience in Node.js/Express.js, Java/Spring Boot, and C#/.NET.
 
 
 ## 🌐 Socials:
